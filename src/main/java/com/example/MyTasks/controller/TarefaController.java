@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.MyTasks.Service.TarefaService;
 import com.example.MyTasks.model.Tarefa;
 import com.example.MyTasks.model.Usuario;
+import com.example.MyTasks.service.TarefaService;
 
 import jakarta.persistence.EntityNotFoundException;
 

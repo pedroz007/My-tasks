@@ -1,4 +1,4 @@
-package com.example.MyTasks.util;
+package com.example.MyTasks.model;
 
 public enum Prioridade {
     BAIXA,

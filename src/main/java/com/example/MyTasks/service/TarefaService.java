@@ -1,4 +1,4 @@
-package com.example.MyTasks.Service;
+package com.example.MyTasks.service;
 
 import java.util.List;
 import java.util.Optional;
